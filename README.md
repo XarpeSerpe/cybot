@@ -1,2 +1,2 @@
 Firmware de control para un cybot sustituyendo sus procesadores por un arduino.
-Se precisa la biblioteca Newping y la biblioteca mobilerobot https://github.com/fstdp/mobilerobot.ino
+Se precisa la biblioteca Newping y se modifica la biblioteca mobilerobot https://github.com/fstdp/mobilerobot.ino
